@@ -1,0 +1,10 @@
+Spring Boot Application
+- In Memory H2 DB
+- MVC
+- REST Api
+- JPA
+- JSF (with primefaces)
+
+
+Followed: https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+Added JSF Component With: https://auth0.com/blog/developing-jsf-applications-with-spring-boot/
